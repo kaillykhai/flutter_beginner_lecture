@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
-import 'UI/assignment_UI.dart';
+import 'UI/dialog_screen.dart';
 import 'UI/list_view_lecture.dart';
 import 'UI/login_screen_view.dart';
 
